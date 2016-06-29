@@ -2,6 +2,7 @@
 uBlox GPS Cape for using a Beaglebone as an NTP Stratum 1
 
 
+More details on http://hewball.com.au
 
 
 # License 
